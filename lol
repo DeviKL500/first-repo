@@ -1,3 +1,2 @@
 gsdfdfs
-fgdfgfdg
-sdfdsf
+стер две строки
